@@ -8,10 +8,10 @@ import Tags from "../components/home/Tags";
 const Home = () => (
   <>
     <Head>
-      <title>HOME | NEXT REALWORLD</title>
+      <title>NEXT REALWORLD</title>
       <meta
         name="description"
-        content="Next.js + SWR codebase containing realworld examples (CRUD, auth, advanced patterns, etc) that adheres to the realworld spec and API"
+        content="Next.js"
       />
     </Head>
     <div className="home-page">

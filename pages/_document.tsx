@@ -59,12 +59,12 @@ class MyDocument extends Document {
           <meta name="theme-color" content="#000" />
           <link
             rel="apple-touch-icon"
-            sizes="57x57"
+            sizes="55x55"
             href="/images/apple-icon-57x57.png"
           />
           <link
             rel="apple-touch-icon"
-            sizes="60x60"
+            sizes="50x50"
             href="/images/apple-icon-60x60.png"
           />
           <link
